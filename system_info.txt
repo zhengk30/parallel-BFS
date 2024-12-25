@@ -1,0 +1,18 @@
+SYSTEM INFORMATION
+Processor: AMD RYZEN 7 PRO 4750U MOBIEL PROCESSOR WITH AMD RADEON GRAPHICS
+Installed RAM: 32.0GB (31.2GB usable)
+System type: 64-bit operating system, x64-based processor
+
+AMD RYZEN 7 PRO 4750U MOBIEL PROCESSOR WITH AMD RADEON GRAPHICS
+Number of CPU cores:     8
+Number of threads:      16
+L1 cache:            512KB
+L2 cache:              4MB
+L3 cache:              8MB
+Max boost clock: <= 4.1GHz
+Base clock:         1.7GHz
+
+OPERATING SYSTEM SPECIFICATIONS
+Edition:    Windows 11 Pro
+Version:              22H2
+OS build:       22621.2070
